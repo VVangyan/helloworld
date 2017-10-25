@@ -1,5 +1,6 @@
 # Maven
 target/
+/target/
 release.properties
 
 # Eclipse
@@ -8,6 +9,11 @@ release.properties
 .externalToolBuilders/
 .metadata
 .settings
+/target/ 
+.classpath
+.project
+.settings
+
 
 # IntelliJ
 *.iml
