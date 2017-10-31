@@ -14,14 +14,10 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet("/HelloWorldServlet")
 public class HelloWorldServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-
     /**
      * Default constructor. 
      */
     public HelloWorldServlet() {
-    	
-    	
-        // TODO Auto-generated constructor stub
     }
 
 	/**
