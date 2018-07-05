@@ -8,6 +8,7 @@ package com.atwy.helloworld;
 public class HelloWorld {
 	public static void main(String[] args) {
 		PrintHelloWorld.helloWorld("Hello world!");
+		
 	}
 }
 
